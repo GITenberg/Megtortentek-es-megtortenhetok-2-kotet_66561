@@ -1,0 +1,31 @@
+_repo: Megtortentek-es-megtortenhetok-2-kotet_66561
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lauka, Gusztáv
+    alias: Lauka, Gusztav
+    birthdate: 1818
+    deathdate: 1902
+    gutenberg_agent_id: '53867'
+    url: http://www.gutenberg.org/2009/agents/53867
+    wikipedia: https://hu.wikipedia.org/wiki/Lauka_Guszt%C3%A1v
+description: ''
+gutenberg_issued: '2021-10-18'
+identifiers:
+  gutenberg: '66561'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcsh 'Hungarian fiction -- 19th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: A madarászi madarász -- Inez, vagy Estremadurai szerelem -- Genialis
+  leczke -- Zam-Midi -- Teréz -- Egy bolha emléklapjai -- Álarcos bál -- Néma és fecsegő
+  udvarló -- Et nos fuimus Trojes -- Convenienz házasság -- Muzeumba való példányok
+  -- Studiummal egy hó alatt csudákat tehetni a zongorán -- Séta a holdvilágnál --
+  A nőkkel nem tanácsos tréfálni -- Éji zene -- Egy kanári memoirjai.
+title: Megtörténtek és megtörténhetők (2. kötet)
+url: http://www.gutenberg.org/ebooks/66561
