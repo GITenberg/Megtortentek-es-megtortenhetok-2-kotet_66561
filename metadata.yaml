@@ -1,5 +1,8 @@
 _repo: Megtortentek-es-megtortenhetok-2-kotet_66561
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lauka, Gusztáv
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53867
     wikipedia: https://hu.wikipedia.org/wiki/Lauka_Guszt%C3%A1v
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66561#Megtortentek-es-megtortenhetok-2-kotet
 gutenberg_issued: '2021-10-18'
 identifiers:
   gutenberg: '66561'
